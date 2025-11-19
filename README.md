@@ -6,7 +6,7 @@
 
 JavaScript | TypeScript | HTML5 | CSS3 | React | Next.js | Node.js
 
-## 💻Featured Projects
+## 💻 Featured Projects
 
 - [YogaClasses](https://github.com/ken4ik77/Falcons-) - a responsive multi-page website built with HTML, CSS, and JavaScript. Implemented features include the “Our Team” section, pricing modal window, and interface improvements for responsive layouts. Contributed to bug fixes, UI adjustments, and overall project refinement.
 
