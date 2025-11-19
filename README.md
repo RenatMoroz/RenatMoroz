@@ -18,4 +18,4 @@ JavaScript | TypeScript | HTML5 | CSS3 | React | Next.js | Node.js
 
 ## 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/renat-moroz-a38334366) | [Telegram](https://t.me/renatkh) | [Email](mailto:renatmoroz.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/renat-moroz-dev) | [Telegram](https://t.me/renatkh) | [Email](mailto:renatmoroz.dev@gmail.com)
